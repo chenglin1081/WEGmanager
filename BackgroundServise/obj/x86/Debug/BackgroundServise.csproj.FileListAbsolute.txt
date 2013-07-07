@@ -1,0 +1,14 @@
+E:\NET\BackgroundServise\BackgroundServise\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET\BackgroundServise\BackgroundServise\bin\x86\Debug\BackgroundServise.exe
+E:\NET\BackgroundServise\BackgroundServise\bin\x86\Debug\BackgroundServise.pdb
+E:\NET\BackgroundServise\BackgroundServise\bin\x86\Debug\ReadFile.dll
+E:\NET\BackgroundServise\BackgroundServise\bin\x86\Debug\ReadFile.pdb
+E:\NET\BackgroundServise\BackgroundServise\obj\x86\Debug\BackgroundServise.exe
+E:\NET\BackgroundServise\BackgroundServise\obj\x86\Debug\BackgroundServise.pdb
+D:\Document\NET\课程设计\BackgroundServise\bin\x86\Debug\BackgroundServise.exe
+D:\Document\NET\课程设计\BackgroundServise\bin\x86\Debug\ReadFile.dll
+D:\Document\NET\课程设计\BackgroundServise\bin\x86\Debug\ReadFile.pdb
+D:\Document\NET\课程设计\BackgroundServise\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Document\NET\课程设计\BackgroundServise\obj\x86\Debug\BackgroundServise.exe
+D:\Document\NET\课程设计\BackgroundServise\obj\x86\Debug\BackgroundServise.pdb
+D:\Document\NET\课程设计\BackgroundServise\bin\x86\Debug\BackgroundServise.pdb

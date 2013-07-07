@@ -1,0 +1,15 @@
+E:\NET\课程设计\ReadFile\bin\Debug\Readfile.dll
+E:\NET\课程设计\ReadFile\bin\Debug\Readfile.pdb
+E:\NET\课程设计\ReadFile\obj\Debug\ResolveAssemblyReference.cache
+E:\NET\课程设计\ReadFile\obj\Debug\Readfile.dll
+E:\NET\课程设计\ReadFile\obj\Debug\Readfile.pdb
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\ReadFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\ReadFile\obj\Debug\Readfile.dll
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\ReadFile\bin\Debug\Readfile.dll
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\ReadFile\bin\Debug\Readfile.pdb
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\ReadFile\obj\Debug\Readfile.pdb
+D:\课程设计\ReadFile\obj\Debug\ResolveAssemblyReference.cache
+D:\课程设计\ReadFile\obj\Debug\Readfile.dll
+D:\课程设计\ReadFile\bin\Debug\Readfile.dll
+D:\课程设计\ReadFile\bin\Debug\Readfile.pdb
+D:\课程设计\ReadFile\obj\Debug\Readfile.pdb

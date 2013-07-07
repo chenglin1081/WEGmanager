@@ -1,0 +1,28 @@
+E:\NET\课程设计\My project\bin\x64\Debug\水电管理系统.exe.config
+E:\NET\课程设计\My project\obj\x64\Debug\My project.csproj.ResolveComReference.cache
+E:\NET\课程设计\My project\bin\x64\Debug\Database\data.mdb
+E:\NET\课程设计\My project\bin\x64\Debug\水电管理系统.exe
+E:\NET\课程设计\My project\bin\x64\Debug\水电管理系统.pdb
+E:\NET\课程设计\My project\obj\x64\Debug\ResolveAssemblyReference.cache
+E:\NET\课程设计\My project\obj\x64\Debug\My_project.MainForm.resources
+E:\NET\课程设计\My project\obj\x64\Debug\My_project.Launcher.resources
+E:\NET\课程设计\My project\obj\x64\Debug\My_project.Properties.Resources.resources
+E:\NET\课程设计\My project\obj\x64\Debug\My project.csproj.GenerateResource.Cache
+E:\NET\课程设计\My project\obj\x64\Debug\水电管理系统.exe
+E:\NET\课程设计\My project\obj\x64\Debug\水电管理系统.pdb
+E:\NET\课程设计\My project\bin\x64\Debug\Database\PWD.mdb
+E:\NET\课程设计\My project\bin\x64\Debug\config.ini
+E:\NET\课程设计\My project\bin\x64\Debug\Resources\png-0057.png
+E:\NET\课程设计\My project\bin\x64\Debug\Resources\png-0007.png
+E:\NET\课程设计\My project\bin\x64\Debug\Resources\Blash1.bmp
+E:\NET\课程设计\My project\bin\x64\Debug\Resources\png-0005.png
+E:\NET\课程设计\My project\bin\x64\Debug\UserData\default.dba
+E:\NET\课程设计\My project\bin\x64\Debug\Readfile.dll
+E:\NET\课程设计\My project\bin\x64\Debug\System.Data.dll
+E:\NET\课程设计\My project\bin\x64\Debug\System.Deployment.dll
+E:\NET\课程设计\My project\bin\x64\Debug\System.dll
+E:\NET\课程设计\My project\bin\x64\Debug\System.Drawing.dll
+E:\NET\课程设计\My project\bin\x64\Debug\System.Windows.Forms.dll
+E:\NET\课程设计\My project\bin\x64\Debug\System.Xml.dll
+E:\NET\课程设计\My project\bin\x64\Debug\Readfile.pdb
+E:\NET\课程设计\My project\obj\x64\Debug\My_project.AboutBox.resources

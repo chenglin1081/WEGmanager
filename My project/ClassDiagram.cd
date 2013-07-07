@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="My_project.MainForm">
+    <Position X="3.75" Y="0.5" Width="2.75" />
+    <Members>
+      <Field Name="accept" Hidden="true" />
+      <Method Name="accept_Click" Hidden="true" />
+      <Field Name="bindingNavigatorAddNewItem" Hidden="true" />
+      <Field Name="bindingNavigatorCountItem" Hidden="true" />
+      <Field Name="bindingNavigatorMoveFirstItem" Hidden="true" />
+      <Field Name="bindingNavigatorMoveLastItem" Hidden="true" />
+      <Field Name="bindingNavigatorMoveNextItem" Hidden="true" />
+      <Field Name="bindingNavigatorMovePreviousItem" Hidden="true" />
+      <Field Name="bindingNavigatorPositionItem" Hidden="true" />
+      <Field Name="bindingNavigatorSeparator" Hidden="true" />
+      <Field Name="bindingNavigatorSeparator1" Hidden="true" />
+      <Field Name="bindingNavigatorSeparator2" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Method Name="button1_Click" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Method Name="button2_Click" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Method Name="button3_Click" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="contextMenuStrip1" Hidden="true" />
+      <Field Name="curpwd" Hidden="true" />
+      <Field Name="dataDataSet" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn1" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn2" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn4" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="dToolStripMenuItem" Hidden="true" />
+      <Method Name="dToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="Edit" Hidden="true" />
+      <Field Name="elec" Hidden="true" />
+      <Method Name="elec_KeyPress" Hidden="true" />
+      <Field Name="fwToolStripMenuItem" Hidden="true" />
+      <Method Name="fwToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="gas" Hidden="true" />
+      <Method Name="gas_KeyPress" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Field Name="handin" Hidden="true" />
+      <Method Name="handin_KeyPress" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Method Name="MainForm" Hidden="true" />
+      <Method Name="MainForm_FormClosed" Hidden="true" />
+      <Method Name="MainForm_Load" Hidden="true" />
+      <Field Name="newpwd" Hidden="true" />
+      <Field Name="newpwd2" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Method Name="pictureBox1_Click" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+      <Method Name="pictureBox2_Click" Hidden="true" />
+      <Field Name="pictureBox3" Hidden="true" />
+      <Method Name="pictureBox3_Click" Hidden="true" />
+      <Field Name="recent" Hidden="true" />
+      <Field Name="saveFileDialog1" Hidden="true" />
+      <Field Name="tableAdapterManager" Hidden="true" />
+      <Field Name="textBox4" Hidden="true" />
+      <Field Name="toolStrip1" Hidden="true" />
+      <Field Name="toolStripButton1" Hidden="true" />
+      <Method Name="toolStripButton1_Click" Hidden="true" />
+      <Field Name="toolStripButton2" Hidden="true" />
+      <Method Name="toolStripButton2_Click" Hidden="true" />
+      <Field Name="toolStripSeparator1" Hidden="true" />
+      <Field Name="toolStripSplitButton1" Hidden="true" />
+      <Method Name="toolStripSplitButton1_ButtonClick" Hidden="true" />
+      <Field Name="userBindingNavigator" Hidden="true" />
+      <Field Name="userBindingNavigatorSaveItem" Hidden="true" />
+      <Method Name="userBindingNavigatorSaveItem_Click" Hidden="true" />
+      <Field Name="userBindingSource" Hidden="true" />
+      <Field Name="userDataGridView" Hidden="true" />
+      <Method Name="userDataGridView_CellDoubleClick" Hidden="true" />
+      <Method Name="userDataGridView_CellMouseDown" Hidden="true" />
+      <Field Name="userTableAdapter" Hidden="true" />
+      <Field Name="water" Hidden="true" />
+      <Method Name="water_KeyPress" Hidden="true" />
+      <Field Name="编辑ToolStripMenuItem" Hidden="true" />
+      <Field Name="单价" Hidden="true" />
+      <Field Name="复制单元格ToolStripMenuItem" Hidden="true" />
+      <Field Name="关于本程序ToolStripMenuItem" Hidden="true" />
+      <Method Name="关于本程序ToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="删除ToolStripMenuItem" Hidden="true" />
+      <Method Name="删除ToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="数据库导出ToolStripMenuItem" Hidden="true" />
+      <Method Name="数据库导出ToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="详情ToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="性别" Hidden="true" />
+      <Field Name="已经使用" Hidden="true" />
+      <Field Name="应交金额" Hidden="true" />
+      <Field Name="用户类型" Hidden="true" />
+      <Field Name="用户配额" Hidden="true" />
+      <Field Name="余额" Hidden="true" />
+      <Field Name="粘贴单元格ToolStripMenuItem" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="My_project.MainForm.cell">
+        <TypeIdentifier>
+          <NewMemberFileName>main.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>hYBVcrOA0jwYBhOKIEGFMUwbICA4AFCeYfwAAMRBoCA=</HashCode>
+      <FileName>main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_project.sck">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Net.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_project.Launcher">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <Members>
+      <Field Name="backgroundWorker1" Hidden="true" />
+      <Method Name="backgroundWorker1_DoWork" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Method Name="Launcher" Hidden="true" />
+      <Method Name="Launcher_Load" Hidden="true" />
+      <Field Name="mainform" Hidden="true" />
+      <Method Name="pictureBox2_Click" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AiQAAAAQACAAABAAEACAAAQCAAAIIAQAEGAAAAAAAAA=</HashCode>
+      <FileName>Launcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Readfile.Readfile">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="My_project.AboutBox" Collapsed="true">
+    <Position X="6.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIACAAgAACAgCAUAAACAAAADAAAAEMAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="My_project.server">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Launcher.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

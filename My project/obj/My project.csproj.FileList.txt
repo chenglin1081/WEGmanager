@@ -1,0 +1,45 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\My_project.Properties.Resources.resources
+obj\Debug\My project.csproj.GenerateResource.Cache
+bin\Release\My project.exe
+bin\Release\My project.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\My_project.mainForm.resources
+obj\Release\My_project.Properties.Resources.resources
+obj\Release\My project.csproj.GenerateResource.Cache
+obj\Release\My project.exe
+obj\Release\My project.pdb
+obj\Debug\My_project.mainForm.resources
+bin\Debug\水电管理系统.exe.config
+bin\Debug\水电管理系统.exe
+bin\Debug\水电管理系统.pdb
+obj\Debug\水电管理系统.exe
+obj\Debug\水电管理系统.pdb
+bin\x86\Debug\水电管理系统.exe.config
+obj\x86\Debug\水电管理系统.exe
+obj\x86\Debug\水电管理系统.pdb
+bin\x86\Debug\Database\data.mdb
+bin\x86\Debug\config.ini
+bin\x86\Debug\Resources\png-0057.png
+bin\x86\Debug\Resources\png-0007.png
+bin\x86\Debug\Resources\Blash1.bmp
+bin\x86\Debug\Resources\png-0005.png
+bin\x86\Debug\UserData\default.dba
+bin\x86\Debug\水电管理系统.exe
+bin\x86\Debug\水电管理系统.pdb
+bin\x86\Debug\Readfile.dll
+bin\x86\Debug\System.Data.dll
+bin\x86\Debug\System.Deployment.dll
+bin\x86\Debug\System.dll
+bin\x86\Debug\System.Drawing.dll
+bin\x86\Debug\System.Windows.Forms.dll
+bin\x86\Debug\System.Xml.dll
+bin\x86\Debug\Readfile.pdb
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\My project.csproj.ResolveComReference.cache
+obj\x86\Debug\My_project.MainForm.resources
+obj\x86\Debug\My_project.Launcher.resources
+obj\x86\Debug\My_project.Properties.Resources.resources
+obj\x86\Debug\My_project.AboutBox.resources
+obj\x86\Debug\My project.csproj.GenerateResource.Cache
+bin\x86\Debug\Database\PWD.mdb

@@ -1,0 +1,135 @@
+I:\课程设计\My project\bin\x86\Debug\水电管理系统.exe.config
+I:\课程设计\My project\bin\x86\Debug\data.mdb
+I:\课程设计\My project\bin\x86\Debug\水电管理系统.exe
+I:\课程设计\My project\bin\x86\Debug\水电管理系统.pdb
+I:\课程设计\My project\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\课程设计\My project\obj\x86\Debug\My_project.MainForm.resources
+I:\课程设计\My project\obj\x86\Debug\My_project.Properties.Resources.resources
+I:\课程设计\My project\obj\x86\Debug\My project.csproj.GenerateResource.Cache
+I:\课程设计\My project\obj\x86\Debug\水电管理系统.exe
+I:\课程设计\My project\obj\x86\Debug\水电管理系统.pdb
+I:\课程设计\My project\obj\x86\Debug\My_project.Launcher.resources
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\水电管理系统.exe.config
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\obj\x86\Debug\My project.csproj.ResolveComReference.cache
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\obj\x86\Debug\水电管理系统.exe
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\obj\x86\Debug\水电管理系统.pdb
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\Database\data.mdb
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\config.ini
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\水电管理系统.exe
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\水电管理系统.pdb
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\obj\x86\Debug\My_project.MainForm.resources
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\obj\x86\Debug\My_project.Launcher.resources
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\obj\x86\Debug\My_project.Properties.Resources.resources
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\obj\x86\Debug\My project.csproj.GenerateResource.Cache
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\obj\x86\Debug\My_project.AboutBox.resources
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\Readfile.dll
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\Readfile.pdb
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\obj\x86\Debug\My_project.details.resources
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\UserData\5-200805040329.xml
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\Resources\png-0057.png
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\Resources\png-0007.png
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\Resources\Blash1.bmp
+C:\Documents and Settings\user.MY-TOMATO\桌面\课程设计\My project\bin\x86\Debug\Resources\png-0005.png
+D:\课程设计\My project\bin\x86\Debug\水电管理系统.exe.config
+D:\课程设计\My project\obj\x86\Debug\My project.csproj.ResolveComReference.cache
+D:\课程设计\My project\obj\x86\Debug\水电管理系统.exe
+D:\课程设计\My project\obj\x86\Debug\水电管理系统.pdb
+D:\课程设计\My project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\课程设计\My project\obj\x86\Debug\My_project.MainForm.resources
+D:\课程设计\My project\obj\x86\Debug\My_project.Launcher.resources
+D:\课程设计\My project\obj\x86\Debug\My_project.Properties.Resources.resources
+D:\课程设计\My project\obj\x86\Debug\My_project.AboutBox.resources
+D:\课程设计\My project\obj\x86\Debug\My_project.details.resources
+D:\课程设计\My project\obj\x86\Debug\My project.csproj.GenerateResource.Cache
+D:\课程设计\My project\bin\x86\Debug\Database\data.mdb
+D:\课程设计\My project\bin\x86\Debug\config.ini
+D:\课程设计\My project\bin\x86\Debug\Resources\png-0057.png
+D:\课程设计\My project\bin\x86\Debug\Resources\png-0007.png
+D:\课程设计\My project\bin\x86\Debug\Resources\Blash1.bmp
+D:\课程设计\My project\bin\x86\Debug\Resources\png-0005.png
+D:\课程设计\My project\bin\x86\Debug\水电管理系统.exe
+D:\课程设计\My project\bin\x86\Debug\水电管理系统.pdb
+D:\课程设计\My project\bin\x86\Debug\Readfile.dll
+D:\课程设计\My project\bin\x86\Debug\System.Data.dll
+D:\课程设计\My project\bin\x86\Debug\System.Deployment.dll
+D:\课程设计\My project\bin\x86\Debug\System.dll
+D:\课程设计\My project\bin\x86\Debug\System.Drawing.dll
+D:\课程设计\My project\bin\x86\Debug\System.Windows.Forms.dll
+D:\课程设计\My project\bin\x86\Debug\System.Xml.dll
+D:\课程设计\My project\bin\x86\Debug\Readfile.pdb
+D:\课程设计\My project\bin\x86\Debug\UserData\empty
+E:\NET\课程设计\My project\bin\x86\Debug\Database\data.mdb
+E:\NET\课程设计\My project\bin\x86\Debug\config.ini
+E:\NET\课程设计\My project\bin\x86\Debug\Resources\png-0057.png
+E:\NET\课程设计\My project\bin\x86\Debug\Resources\png-0007.png
+E:\NET\课程设计\My project\bin\x86\Debug\Resources\Blash1.bmp
+E:\NET\课程设计\My project\bin\x86\Debug\Resources\png-0005.png
+E:\NET\课程设计\My project\bin\x86\Debug\UserData\default.dba
+E:\NET\课程设计\My project\bin\x86\Debug\Readfile.dll
+E:\NET\课程设计\My project\bin\x86\Debug\System.Data.dll
+E:\NET\课程设计\My project\bin\x86\Debug\System.Deployment.dll
+E:\NET\课程设计\My project\bin\x86\Debug\System.dll
+E:\NET\课程设计\My project\bin\x86\Debug\System.Drawing.dll
+E:\NET\课程设计\My project\bin\x86\Debug\System.Windows.Forms.dll
+E:\NET\课程设计\My project\bin\x86\Debug\System.Xml.dll
+E:\NET\课程设计\My project\bin\x86\Debug\Readfile.pdb
+E:\NET\课程设计\My project\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET\课程设计\My project\obj\x86\Debug\My project.csproj.ResolveComReference.cache
+E:\NET\课程设计\My project\obj\x86\Debug\My_project.MainForm.resources
+E:\NET\课程设计\My project\obj\x86\Debug\My_project.Launcher.resources
+E:\NET\课程设计\My project\obj\x86\Debug\My_project.Properties.Resources.resources
+E:\NET\课程设计\My project\obj\x86\Debug\My_project.AboutBox.resources
+E:\NET\课程设计\My project\obj\x86\Debug\My project.csproj.GenerateResource.Cache
+E:\NET\课程设计\My project\bin\x86\Debug\Database\PWD.mdb
+E:\NET\课程设计\My project\obj\x86\Debug\My_project.detail.resources
+E:\NET\课程设计\My project\bin\x86\Debug\水电气管理系统.exe.config
+E:\NET\课程设计\My project\bin\x86\Debug\水电气管理系统.exe.manifest
+E:\NET\课程设计\My project\bin\x86\Debug\水电气管理系统.application
+E:\NET\课程设计\My project\bin\x86\Debug\水电气管理系统.exe
+E:\NET\课程设计\My project\bin\x86\Debug\水电气管理系统.pdb
+E:\NET\课程设计\My project\obj\x86\Debug\水电气管理系统.TrustInfo.xml
+E:\NET\课程设计\My project\obj\x86\Debug\水电气管理系统.exe.manifest
+E:\NET\课程设计\My project\obj\x86\Debug\水电气管理系统.application
+E:\NET\课程设计\My project\obj\x86\Debug\水电气管理系统.exe
+E:\NET\课程设计\My project\obj\x86\Debug\水电气管理系统.pdb
+E:\NET\课程设计\My project\bin\x86\Debug\Resources\Icon1.ico
+E:\NET\课程设计\My project\bin\x86\Debug\Resources\png-0048.png
+E:\NET\课程设计\My project\bin\x86\Debug\Resources\png-0652.png
+D:\Document\NET\课程设计\My project\bin\x86\Debug\水电气管理系统.exe.config
+D:\Document\NET\课程设计\My project\obj\x86\Debug\My project.csproj.ResolveComReference.cache
+D:\Document\NET\课程设计\My project\obj\x86\Debug\水电气管理系统.exe
+D:\Document\NET\课程设计\My project\obj\x86\Debug\水电气管理系统.pdb
+D:\Document\NET\课程设计\My project\bin\x86\Debug\Database\data.mdb
+D:\Document\NET\课程设计\My project\bin\x86\Debug\Database\PWD.mdb
+D:\Document\NET\课程设计\My project\bin\x86\Debug\Resources\Icon1.ico
+D:\Document\NET\课程设计\My project\bin\x86\Debug\config.ini
+D:\Document\NET\课程设计\My project\bin\x86\Debug\Resources\png-0048.png
+D:\Document\NET\课程设计\My project\bin\x86\Debug\Resources\png-0652.png
+D:\Document\NET\课程设计\My project\bin\x86\Debug\Resources\png-0057.png
+D:\Document\NET\课程设计\My project\bin\x86\Debug\Resources\png-0007.png
+D:\Document\NET\课程设计\My project\bin\x86\Debug\Resources\Blash1.bmp
+D:\Document\NET\课程设计\My project\bin\x86\Debug\Resources\png-0005.png
+D:\Document\NET\课程设计\My project\bin\x86\Debug\UserData\default.dba
+D:\Document\NET\课程设计\My project\bin\x86\Debug\水电气管理系统.exe.manifest
+D:\Document\NET\课程设计\My project\bin\x86\Debug\水电气管理系统.application
+D:\Document\NET\课程设计\My project\bin\x86\Debug\水电气管理系统.exe
+D:\Document\NET\课程设计\My project\bin\x86\Debug\水电气管理系统.pdb
+D:\Document\NET\课程设计\My project\bin\x86\Debug\Readfile.dll
+D:\Document\NET\课程设计\My project\bin\x86\Debug\System.Data.dll
+D:\Document\NET\课程设计\My project\bin\x86\Debug\System.Deployment.dll
+D:\Document\NET\课程设计\My project\bin\x86\Debug\System.dll
+D:\Document\NET\课程设计\My project\bin\x86\Debug\System.Drawing.dll
+D:\Document\NET\课程设计\My project\bin\x86\Debug\System.Windows.Forms.dll
+D:\Document\NET\课程设计\My project\bin\x86\Debug\System.Xml.dll
+D:\Document\NET\课程设计\My project\bin\x86\Debug\Readfile.pdb
+D:\Document\NET\课程设计\My project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Document\NET\课程设计\My project\obj\x86\Debug\My_project.MainForm.resources
+D:\Document\NET\课程设计\My project\obj\x86\Debug\My_project.Launcher.resources
+D:\Document\NET\课程设计\My project\obj\x86\Debug\My_project.Properties.Resources.resources
+D:\Document\NET\课程设计\My project\obj\x86\Debug\My_project.AboutBox.resources
+D:\Document\NET\课程设计\My project\obj\x86\Debug\My_project.detail.resources
+D:\Document\NET\课程设计\My project\obj\x86\Debug\My project.csproj.GenerateResource.Cache
+D:\Document\NET\课程设计\My project\obj\x86\Debug\水电气管理系统.TrustInfo.xml
+D:\Document\NET\课程设计\My project\obj\x86\Debug\水电气管理系统.exe.manifest
+D:\Document\NET\课程设计\My project\obj\x86\Debug\水电气管理系统.application
